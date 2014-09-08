@@ -7,7 +7,7 @@ So before you start working, you might want to arrange the environment according
 ![](02_palettes_palettearrange.png)
 
 2. Drag & drop palette windows to the right of the fritzing-window and notice how palettes rearrange, combine or float.
-![](02_palettes_partsDocked.JPG)
+![](02_palettes_partsDocked.jpg)
 
 
 ### Partpalette
