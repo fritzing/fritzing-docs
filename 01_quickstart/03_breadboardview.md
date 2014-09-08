@@ -1,6 +1,6 @@
 ## Breadboardview ##
 
-The Breadboard-Tab is the first view. In here you can easily copy your real work as a digital dokumentation. Or have a look on other projects or examples how you can use specific hardware and modify it to your needs. 
+The Breadboard-Tab is the first View. In here you can easily copy your real work as a digital dokumentation. Or have a look on other projects or examples how you can use specific hardware and modify it to your needs. 
 
 Let's begin with a simple Led-Blink for example.
 
