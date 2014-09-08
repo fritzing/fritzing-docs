@@ -5,7 +5,7 @@
 ## Make your first steps ##
 
 ### Welcomeview ###
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/01_welcomeview.png)
+![](images/01_welcomeview.png)
 
 1. Information and Updates
 	
@@ -33,7 +33,7 @@
 	Let's start by opening Fritzing, naming and saving our project. Saving a project is highly recommended at start and every now and then while working, since Fritzing is still Alpha and unfortunately might sometimes crash...
 
 	1. From the Fritzing menu bar select File > Save As...<p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/02_save-as.png)
+	![](images/02_save-as.png)
 
 	2. Specify a name and location for the project and click Save<p>
 
@@ -42,16 +42,16 @@
 
 	Before we start working, we might want to arrange the environment according to our needs and preferences.
 	1. From the Fritzing Menu Bar, select Window > and mark the palette windows you would like to see in the environment.<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/03_palettearrange.png)
+	![](images/03_palettearrange.png)
 	2. Drag & drop palette windows anywhere in the environment and notice how windows rearrange, combine or float.
 	3. Choose the breadboard view in the Navigator, in case it is not already selected.<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/04_breadboardview.png)
+	![](images/04_breadboardview.png)
 
 3. Building a circuit
 
 	Make sure your circuit in the real world works properly. Then rebuild your circuit in Fritzing following these guidelines:
 	1. Drag & drop an Arduino or another Microcontroller of your choise from the Parts palette window to the Project View.<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/05_droparduino.png)
+	![](images/05_droparduino.png)
 	2. Do the same with a breadboard and all other parts of your circuit. If you cannot find a part in the library, use the Mystery Part (icon looks like a qustion mark - ?). The Mystery Part will let you quickly define a new part and its connectors (through the Inspector). Or use the generic ic. it has e.g. multiple smd footprints. 
 	3. You can arrange parts by selecting, dragging and dropping, or by using the functions in the menu bar, located under Part.
 	4. To delete a part, simply select and press BACKSPACE or Del.
@@ -59,7 +59,7 @@
 	6. Connect all parts until the circuit looks exactly like your circuit in the real world. Notice that connectors that are not properly connected are painted red.
 	7. If you click and hold on a connector, Fritzing will highlight all equipotential connectors. This can really be useful if you want to see the whole set of connections attached to this particular connection.
 	8. You can bend wires by adding bend-points. Just drag them out of a wire. Hit strg on a wire to make it curved.<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/06_firstcircuit.png)
+	![](images/06_firstcircuit.png)
 	9. Select the schematic and pcb tabs to watch or edit your circuit in these views. <p>
 
 1. Editing properties
@@ -68,7 +68,7 @@
 	1. Select any of your circuit's parts and have a look at the Part Inspector palette window.
 	2. Click on the part's name and rename it. This is useful when you want to distinguish between similar parts.
 	3. Try also to change other properties.<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/07_properties.png)
+	![](images/07_properties.png)
 	<p>
 	You can also change properties of parts in the PCB View. The board's shape could be changed to an Arduino shield, a resizable rectangle or a custom shape.	
 
@@ -78,7 +78,7 @@
 	After finishing building the circuit, save your project. You might want to export your circuit as an image file or PDF.
 	1. Select the desired Project View to be exported (breadboard,schematic or pcb).
 	2. From the Fritzing menu bar, select File > Export > and the desired format.<p><p>
-		![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/08_export.png)
+		![](images/08_export.png)
 
 #### 2. external learning material ####
 
@@ -95,15 +95,15 @@ The schematic view is the classical way to communicate about builded circuits. I
 circuit in a way an electrical ingeneur works with electronics.
 
 1. the componets you used in the breadboardview are now symbols. the electrical connections you build in breadboardview are now visible in these dotted lines. let's call them "ratsnest".<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/09_sortparts.png)
+	![](images/09_sortparts.png)
 
 2. sort the componets around the arduino board. <p><p>
 
 3. make wires from the ratsnest<p><p>
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/10_ratsnest.png)
+	![](images/10_ratsnest.png)
 
 4. look at the clean schematic diagram you have now from your circuite.<p><p> 
-	![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/11_wiredschematic.png)
+	![](images/11_wiredschematic.png)
 
 If you now ask yourself of the need of this view it's somekind of normal. But if you use it more and more, you will discover how easy it is to read schematic from allready developed things and you could even start from a schematic to build a prototyp or test circuite. 	
 
@@ -119,12 +119,12 @@ To learn how to use Fritzing's PCB design tools, go through the following steps 
 #### 1. the PCB view ####
 So your circuit works and also looks great in Fritzing's Breadboard View.<p><p>
 
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/12_breadboard-pcb.png)<p>
+![](images/12_breadboard-pcb.png)<p>
 
 Let's now have a look at the PCB View. To switch to the PCB View use the Navigator or the View Switcher. While it is very easy to recognize parts in the Breadboard View, the PCB View might look a bit confusing at first glance. The reason for this is that the PCB View only shows the necessary information needed for the PCB design. This information is shown in different layers. To view or hide layers, use the View options in the menu bar. Learn more about the PCB View layers.
 As an example, lets have a look first at the following circuit which was created in Breadboard View:<p>
  
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/13_pcbview.png)
+![](images/13_pcbview.png)
 
 
 Selecting PCB View in the Navigator will show a completely different illustration of the same circuit. 
@@ -134,7 +134,7 @@ The thin connecting lines are the Rat's Nest (more about the Rat's Nest below).
  
 You might want to resize the board, or use an Arduino shield or a board with a custom shape. Select the board and choose/edit your prefered shape in the Inspector.<p><p>
 
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/14_changepcbshape.png)
+![](images/14_changepcbshape.png)
 
 
 #### 2. Arranging parts on the board ####
@@ -152,35 +152,35 @@ Follow these guidelines:
 7. When designing stack shields, parts' heights should also be considered.
 
 The following screenshot shows one out of many possible part arrangements for the given circuit:<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/15_pcbarranged.png)
+![](images/15_pcbarranged.png)
 
 #### 3. Hand-routing ####
 
 Use any of the following methods to hand-route traces and jumpers:
 
 1. The safest way is to right-click a Rat's nest wire and choose "Create Trace from Selected Wire(s)" or "Create Jumper from Selected Wire(s)". This will avoid making any changes in the circuit that you built in Breadboard View.<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/18_ratsnesttotrace.png)
+![](images/18_ratsnesttotrace.png)
 
 2. Another way is to simply click a part's connector, and drag to make a connection. A trace will be created. To create a jumper, just right-click on the trace and choose "Create Jumper from Selected Wire(s)". To avoid incorrect wiring, we strongly recommend you follow the Rat's nest wire connections while using this method.<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/20_dragratsnest.png)
+![](images/20_dragratsnest.png)
 3. You can use both sides of the pcb to make a suiteable wireing. So it is possible to sent traces to top and bottom of the pcb.
 <p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/21_topbottom-trace.png)
+![](images/21_topbottom-trace.png)
 
 Note that while clicking and holding on a connector, all equipotential connectors are highlighted (in yellow). This shows the whole set of connections attached to this particular connection, and can really help to make hand-routing decisions. Once again, take good care not to cross wires!<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/22_highlightedconnections.png)
+![](images/22_highlightedconnections.png)
 #### 4. Auto-routing (not recommanced) ####
 
 After positioning all parts on the board, be aware that parts are not really connected to each other yet. The thin connecting lines that you see (Rat's Nest Layer) only act as a guideline. We would now want Fritzing to automatically generate the connection traces between parts. Click the Auto-route function from the bottom menu bar. 
 
 If you notice that Fritzing is struggling trying to generate a connection, you can press the "Skip this Trace" button or "Cancel Auto-routing" in the bottom menu while in process.<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/16_autorouter-process.png)
+![](images/16_autorouter-process.png)
 
 Such a problem might happen because parts were not arranged properly on the board or when there is just no possible route. You will then need to Hand-route the trace or create a jumper. Jumpers are connections that need to be soldered with external wires. These are shown as blue connections while traces are shown as orange ones.<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/17_autorouted.png)
+![](images/17_autorouted.png)
 
 If you are happy with some of the traces and want to keep them untouched, or you know in advance that some connections need jumpers, you might want to tell Fritzing to exclude some connections in the auto-routing process. To do so, select the connections you want to exclude, choose "Don't Autoroute this trace" in the right-click menu or in the Trace menu. Only then press Auto-route. The selected traces will be left untouched while all other connections will be auto-routed. Any traces that were handrouted are automatically marked as "Don't Autoroute."<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/18a_dontautoroot.png)
+![](images/18a_dontautoroot.png)
 
 Be aware that if you moved a part after auto-routing or hand-routing, the routing traces are not corrected automatically. You will need to be cautious when moving parts and make sure you don't create any short circuits.
 
@@ -197,16 +197,16 @@ For both auto- and hand-routing, follow these guidelines:
 5. Don't forget the traces can go under parts like resistors.
 6. Use jumper wires instead of watching the auto-route go crazy.
 7. Choose a good grid (e.g. 0.1inch) and "align to grid"-option for a straight forward routing and design process<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/23_setgrid.png)
+![](images/23_setgrid.png)
 
 #### 6. Editing Traces ####
 
 To achieve a better and nicer design, you would need to edit traces by moving, adjusting width and adding bend points. Width adjustment can be done in the Inspector. Please note that thin traces might ruin in a DIY PCB production, so keeping traces in medium thickness is safer. To create a bend points drag it simply out of a trace.<p><p>
 
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/24_add-bentpoint.png)
+![](images/24_add-bentpoint.png)
 
 Sometimes, it would be possible to edit traces in a way that will reduce the number of  jumpers. The routing in the screenshot above was edited and a better design was achieved:<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/25_goodroute.png)
+![](images/25_goodroute.png)
 
 #### 7. Export Options ####
 
@@ -215,10 +215,10 @@ From the menu bar choose File > Export > and the desired format.
 
 - For DIY PCB production, use the Etchable PDF option which exports only the necessary design for etching.
 - When exporting Gerber files, create a folder for the gerbers, and zip. it before sending to a manufacturer.<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/26_export-diy.png)
+![](images/26_export-diy.png)
 
 Or you try the [Fritzing-Fab-Service](http://fab.fritzing.org) by useing the "Farbricate" button in the pcb-views bottom. it will let you order directly from the fritzing sketch. Hovering the button gives you a feeling about the fab-price per board and the discount if you need more copies.<p><p>	
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/27_fabricated.png)
+![](images/27_fabricated.png)
 
 So hopefully, this tutorial helped you understand the PCB design process. Good luck and show us what you've done!<p><p>
 
@@ -233,14 +233,14 @@ Be sure to check Fritzing's library before you start creating a new part. Often 
 ### 1. Using generic parts ###
 Standard parts like ICs, resistors, and pin headers can be defined easily by using Fritzing's generic parts. <p><p>
 
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/28_generics.png)
+![](images/28_generics.png)
 
 For example, the name and number of pins of the IC part can be defined in the pulldown menu inside the Inspector:
 <p><p>
 
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/29_generic-ic-pins.png)<p><p>
+![](images/29_generic-ic-pins.png)<p><p>
 and the result is...<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/30_generic-ic-result.png)
+![](images/30_generic-ic-result.png)
  
 It might be important for you to define some more part specifications (properties, connector names, etc.) and you would probably also want to save your part. To do so, select your part and edit it using the Part Editor (Part > Edit(new parts editor)). For more information, please check the following pages:
 
@@ -258,23 +258,23 @@ We recommance the use of the free openSource vector-programm [InkScape](http://w
 	What kind of housing you need? (smd or tht)	
 
 2. Drop the chosen part in the sketch window, make a right-click and choose "Edit (new parts editor)"<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/31_edit-partseditor.png)
+![](images/31_edit-partseditor.png)
 
 3. Now the Partseditor-window came up. It has six tabs. The first four viewes let you define the graphic of the part and the icon that gets used in the library. 
 
 4. We start now in the breadboard-view of the part. On the right you see all the defined connectors.
 ***NOTE** if you have a part with many connectors it can safe you a bunch of time beginning with the connectors-tab because all the connectors listed here and can be simply modified*<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/32_editor-bread.png)
+![](images/32_editor-bread.png)
 
 5. You can find the svg for this view simply by "File > show in folder". It is strongly recommanced to copy the svg to another place before editing it. Otherwise you will destroy the fritzing-core-part.
 
 6. Now open the copied svg and make the changes you need for the part. ***NOTE** at this point you need to know how a vector-programm is used to make the modifications. Have a look in the external link section for good tutorials concerning this topic.*   
 
 7. Now you want to use the self created or modified svg for the view. Therefor use the menu and select "load image for view". Navigate to the location of your svg and load it. Now the Partseditor shows the new image.<p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/34_editor-loadforview.png)
+![](images/34_editor-loadforview.png)
 
 8. By hovering over the loaded parts-svg you will see a blue highlighting. If you click on "Select graphic" for one of the connector-pins the highlighting becomes mangenta. Now you can choose one of the part-svg-paths that will be used for the connector. By holding shift + useing the mousewheel you can easily access all the paths form the svg overlapping each other. By using the left mouse-button the chosen path becomes the new connector. <p><p>
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/33_editor-select-connector.png)
+![](images/33_editor-select-connector.png)
 
 9. The other two views, Schematic and PCB, acting nearly the same way. 
 

@@ -15,4 +15,4 @@
 
 	This section provides you randomly with usefull tips and tricks for a better handling of fritzing.
     
-![](C:/Users/joev/Documents/AAA/Fritzing/fritzGitWeb/fritzing_org/content/screenshots/01_welcomeview.png)
+![](images/01_welcomeview.png)
