@@ -1,6 +1,6 @@
 ## Breadboardview ##
 
-The Breadboard-Tab is the first View. In here you can easily copy your real work as a digital dokumentation. Or have a look on other projects or examples how you can use specific hardware and modify it to your needs. 
+The Breadboard-Tab is the second View. In here, you can easily copy your real work as a digital dokumentation. Or have a look on other projects or examples to learn how to use specific hardware and modify it to your needs. 
 
 Let's begin with a simple Led-Blink for example.
 
@@ -17,6 +17,7 @@ Let's begin with a simple Led-Blink for example.
 	2. Specify a name and location for the project and click Save<br/>
 	![](images/03_breadboardview_save-as-name.png)
 	<br/>
+	
 2. transfer your Circuit
 
 	Make sure your circuit in the real world works properly. Then rebuild your circuit in Fritzing following these guidelines:

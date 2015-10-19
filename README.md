@@ -8,30 +8,36 @@ Welcome to the Fritzing Learning Section. Here you can learn everything about Fr
 The Learning Section has 4 Maintopics:
 
 ## 1. Quickstart 
-- welcomeview
-  - Blog
-  - Recentfiles
-  - Tips&Tricks
-  - Projectgalery
+1. welcomeview
+  - Information and Updates
+  - Projectgallery
+  - recent file handeling
+  - Tips & Tricks
 
-- Breadboardview
-  - Breadboard
-  - Wires
-
-- Schematicview
-  - Connections
-  - Symbols
-
-- PCB-View
-  - Footprints
-  - Traces
-
-- Palettes & Toolbar
+2. Palettes & Toolbar
   - Parts
   - Inspector
   - Undo
   - Layer
   - Toolbar
+
+3. Breadboardview
+  1. Building a Circuit
+    - Starting a new project
+    - transfer your Circuit
+    - Editing properties
+    - Exporting a circuit
+  2. external learning material
+
+4. Schematicview
+  - Connections
+  - Symbols
+
+5. PCB-View
+  - Before we start
+  - Traces
+
+
 
 ## 2. Parts
 - fritzing Core-parts & Mysterypart/Gerneric IC

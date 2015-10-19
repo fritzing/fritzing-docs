@@ -37,3 +37,11 @@ fritzing comes with diffrent layers in the three views. The Layers-palette gives
 **But watch out:** hidding a layer mean just hide it for the moment in fritzing. it does not effect the export to another file format. 
 
 ![](images/02_palettes_layers.jpg)
+
+
+### Toolbar
+
+The Toolbar stays at the bottom of each view. The Tools you can choose from depending on two things. 
+First, the part you have selected. If a tool cannot be used with the part. it is grayed out.
+
+Second, the View you are working in. The Pcb-View has other tools than the Breadboard-View or the Schematic-View.
