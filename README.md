@@ -22,12 +22,12 @@ The Learning Section has 4 Maintopics:
   - Toolbar
 
 3. [Breadboardview](01_quickstart/03_breadboardview.md)
-  1. Building a Circuit
+  a. Building a Circuit
     - Starting a new project
     - transfer your Circuit
     - Editing properties
     - Exporting a circuit
-  2. external learning material
+  b. external learning material
 
 4. [Schematicview](01_quickstart/04_schematicview.md)
   - Connections
