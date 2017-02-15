@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+name: Fritzing Learning, Fritzing Organisation
+markdown: kramdown
 title: "fritzing Docs"
 descripton: "[Introduction](README.md)"
