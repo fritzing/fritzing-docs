@@ -70,7 +70,7 @@ Such a problem might happen because parts were not arranged properly on the boar
 ![](images/05_pcbview_autorouted.png)
 
 If you are happy with some of the traces and want to keep them untouched, or you know in advance that some connections need jumpers, you might want to tell Fritzing to exclude some connections in the auto-routing process. To do so, select the connections you want to exclude, choose "Don't Autoroute this trace" in the right-click menu or in the Trace menu. Only then press Auto-route. The selected traces will be left untouched while all other connections will be auto-routed. Any traces that were handrouted are automatically marked as "Don't Autoroute."
-![](images/05_pcbviewa_dontautoroot.png)
+![](images/05_pcbview_dontautoroot.png)
 
 Be aware that if you moved a part after auto-routing or hand-routing, the routing traces are not corrected automatically. You will need to be cautious when moving parts and make sure you don't create any short circuits.
 
