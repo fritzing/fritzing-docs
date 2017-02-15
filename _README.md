@@ -1,3 +1,8 @@
+---
+layout: navigation
+title: Fritzing Learning, Fritzing Organisation
+---
+
 #fritzing-learning
 ==================================================
 the prototype for the learning section of fritzing
