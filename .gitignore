@@ -1,1 +1,6 @@
 _site/
+script/
+.sass-cache/
+_sass/
+jekyll*
+Gem*
