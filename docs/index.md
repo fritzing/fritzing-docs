@@ -13,21 +13,21 @@ the prototype for the learning section of fritzing
 Welcome to the Fritzing Learning Section. Here you can learn everything about Fritzing.
 The Learning Section has 4 Maintopics:
 
-## [1. Quickstart](01_quickstart/00_quickstart.html)
-* [welcomeview](01_quickstart/01_welcomeview.html)
+## [1. Quickstart](/fritzing-docs/01_quickstart/00_quickstart.html)
+* [welcomeview](/fritzing-docs/01_quickstart/01_welcomeview.html)
   - Information and Updates
   - Projectgallery
   - recent file handeling
   - Tips & Tricks
 
-* [Palettes & Toolbar](01_quickstart/02_palettes.html)
+* [Palettes & Toolbar](/fritzing-docs/01_quickstart/02_palettes.html)
   - Parts
   - Inspector
   - Undo
   - Layer
   - Toolbar
 
-* [Breadboardview](01_quickstart/03_breadboardview.html)
+* [Breadboardview](/fritzing-docs/01_quickstart/03_breadboardview.html)
   + Building a Circuit
     - Starting a new project
     - transfer your Circuit
@@ -35,43 +35,43 @@ The Learning Section has 4 Maintopics:
     - Exporting a circuit
   + external learning material
 
-* [Schematicview](01_quickstart/04_schematicview.html)
+* [Schematicview](/fritzing-docs/01_quickstart/04_schematicview.html)
   - Connections
   - Symbols
 
-* [PCB-View](01_quickstart/05_pcbview.html)
+* [PCB-View](/fritzing-docs/01_quickstart/05_pcbview.html)
   - Before we start
   - Traces
 
 
 
-## [2. Parts](02_parts/00_parts.html)
-- [fritzing Core-parts](02_parts/01_coreparts.html)
+## [2. Parts](/fritzing-docs/02_parts/00_parts.html)
+- [fritzing Core-parts](/fritzing-docs/02_parts/01_coreparts.html)
 
-- [Mysterypart/Gerneric IC](02_parts/02_mysteryparts.html)
+- [Mysterypart/Gerneric IC](/fritzing-docs/02_parts/02_mysteryparts.html)
 
-- [fritzing parts](02_parts/03_partsbusiness.html)
+- [fritzing parts](/fritzing-docs/02_parts/03_partsbusiness.html)
   - fzpz
   - fzp
   - svg
 
-- [fritzing Partseditor](02_parts/04_partseditor.html)
+- [fritzing Partseditor](/fritzing-docs/02_parts/04_partseditor.html)
   - Properties
   - Connectors
   - Viewgraphics
 
-- [Partcreation](02_parts/05_brd2svg.html)
+- [Partcreation](/fritzing-docs/02_parts/05_brd2svg.html)
   - svg editing
   - fzp editing
   - brd2svg
 
-## [3. PCB Design](03_pcb design/00_pcbdesign.html)
+## [3. PCB Design](/fritzing-docs/03_pcb design/00_pcbdesign.html)
 - fritzing pcb-design
 - pcb routing
 - custom pcb shape
 - design and testing tips
 
-## [4. Referenz](04_referenz/00_referenz.html)
+## [4. Referenz](/fritzing-docs/04_referenz/00_referenz.html)
 - user-parts
 - project gallery
 - source code / develop fritzing
