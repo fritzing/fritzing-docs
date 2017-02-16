@@ -1,5 +1,5 @@
 title: Fritzing Docs
 description: This Page is the new Fritzing learning page.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
