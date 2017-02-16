@@ -4,3 +4,4 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 baseurl: /fritzing-docs
+url: https://fritzing.github.io
