@@ -22,9 +22,10 @@
             {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
             {% for p in navigation_pages %}
               {% if p.navigation_weight %}
+              {{ page.path | prepend:site.baseurl }}
 
                     <li>
-                      <a href="{{ p.baseurl }}{{ p.title }}" {% if p.url == page.url %}class="active"
+                      <a href="{{ page.path }}" {% if p.url == page.url %}class="active"
 
                       {% endif %}>
                       {{ p.title }}
