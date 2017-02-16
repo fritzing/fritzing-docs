@@ -3,3 +3,4 @@ description: This Page is the new Fritzing learning page.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+baseurl: /fritzing-docs
